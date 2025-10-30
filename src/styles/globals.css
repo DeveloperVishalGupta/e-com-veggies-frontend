@@ -19,3 +19,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.heroImage {
+  background-image: url(../assets/images/groupVeggies.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
