@@ -34,7 +34,7 @@ Follow these steps to run the project locally 👇
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/DeveloperVishalGupta/e-com-veggies-frontend.git
 cd your-repo-name
 npm install
 npm run dev
